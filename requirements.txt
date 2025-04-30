@@ -1,0 +1,34 @@
+# Core Data Handling
+pandas
+numpy
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Geospatial Support
+geopandas
+shapely
+folium
+
+# Machine Learning
+scikit-learn
+xgboost
+# Nepali Language Support
+indic-nlp-library
+fasttext
+
+# Streamlit Dashboard
+streamlit
+
+# Model Persistence
+joblib
+
+# NLP
+nltk
+textblob
+gensim
+transformers
+
+
